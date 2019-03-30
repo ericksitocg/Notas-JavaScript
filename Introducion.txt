@@ -1,0 +1,13 @@
+Los sitios web estan conformados por 3 tecnologias
+
+Esqueleto o estructura: HTML
+Apariencia : CSS
+Interactividad , que nos reconosca las acciones que realizamos: Javascript
+
+Las instrucciones terminan en ;
+
+El codigo va entre etiquetas <script> <\script> estas etiquetas pueden ir en el head o el el body o en un archivo js externo
+
+alert("Holi");
+
+Es una instrucciones correcta, para una ventana emergente
